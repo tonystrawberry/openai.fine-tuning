@@ -26,7 +26,10 @@ async function main() {
   // eslint-disable-next-line no-restricted-syntax
   for (const testData of testDatas) {
     const completion = await openai.chat.completions.create({
-      messages: [{ role: 'system', content: testData.message }],
+      messages: [
+        { role: 'system', content: 'You are the assistant for providing medical checkups information for the company Monstarlab Inc. Following questions will be from employees of the Monstarlab company.' },
+        { role: 'user', content: testData.message },
+      ],
       model: fineTunedModel,
     });
 
