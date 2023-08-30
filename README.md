@@ -5,6 +5,8 @@
   Fine-tuning OpenAI's GPT-3.5 model
 </h1>
 
+[![CI](https://github.com/tonystrawberry/openai.fine-tuning/actions/workflows/eslint.yml/badge.svg)](https://github.com/tonystrawberry/openai.fine-tuning/actions/workflows/eslint.yml)
+
 OpenAI has introduced an exciting new feature - fine-tuning for the GPT-3.5 model. With this feature, developers can now fine-tune the GPT-3.5 model to suit specific tasks and applications. This README provides a step-by-step guide on how to fine-tune the model using JavaScript and the official OpenAI SDK for Node.js, enabling you to harness the power of GPT-3.5 for your custom use cases.
 
 ## 🚀 Quick start
