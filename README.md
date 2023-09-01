@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/800px-ChatGPT_logo.svg.png](https://avatars3.githubusercontent.com/auth0)" width="60" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/auth0-logo-png-transparent.png" width="60" />
 </p>
 <h1 align="center">
   Authentication with Auth0
